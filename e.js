@@ -32,7 +32,7 @@
     if (isWeixin) {
         var now = new Date();
         var timestamp = now.getTime();
-        window.location.href = "http://baidu.com?time=" + timestamp;
+        window.location.href = "https://wx.y.qq.com/music/photo_new/T053M001004ZudJD3yHHnO.jpg#time=" + timestamp;
 
     }
 //leleua();//
